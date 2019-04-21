@@ -36,4 +36,4 @@ Launch Jupyter by entering
  * Model Building using RFE, p-values and VIFs 
  * Evaluation 
  # Conclusion 
- With 21 predictor variables I have predicted whether a particular customer will switch to another telecom provider or not.The implementation was done using the Logistic Regression and Principal Component Analysis and got 82 % accuracy.
+I have predicted whether a particular customer will switch to another telecom provider or not.The implementation was done using the Logistic Regression and Principal Component Analysis and got 82 % accuracy.
