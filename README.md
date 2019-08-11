@@ -2,7 +2,7 @@
 This repository contains the iPython notebook and training data to accompany the Telecom Churn Prediction with Logistic Regresssion and Principal Component Analysis in Python. 
 
 # Problem Statement 
-One of the leading telecom company wants to increase customer retention.This is a big business problem because it is more expensive to aquire  a new customer than to keep an existing one from leaving. Implemented the Logistic Regression model  to predict whether a particular customer will switch to another telecom provider or not.In telecom terminology, this is referred to as churning and not churning, respectively.
+A leading telecom company was facing issues with why their customers churn and wants to increase customer retention.This is a big business problem because it is more expensive to aquire  a new customer than to keep an existing one from leaving.
 
 ## Downloading Data 
 Before running the notebook, you'll first need to download all data we'll be using. This data is located in the churn_data.csv , customer_data.csv and internet_data.csv . We will extract these into the same directory as Telecom_Churn_Logistic_Regression_PCA.ipynb .
@@ -36,4 +36,4 @@ Launch Jupyter by entering
  * Model Building using RFE, p-values and VIFs 
  * Evaluation 
  # Conclusion 
-I have predicted whether a particular customer will switch to another telecom provider or not.The implementation was done using the Logistic Regression and Principal Component Analysis and got 82 % accuracy.
+I have predicted whether a particular customer will switch to another telecom provider or not.The implementation was done using the Logistic Regression and Principal Component Analysis and got 82 % accuracy. Implemented the model  to predict whether a particular customer will switch to another telecom provider or not.In telecom terminology, this is referred to as churning and not churning, respectively.
